@@ -1,7 +1,9 @@
-## 승우 Kang Seung woo
+### 🌱 Interest
+  - React
+  - Algorithm
+  
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kangsw1025)](https://solved.ac/kangsw1025)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kangsw1025)]
-(https://solved.ac/kangsw1025)
 <!--
 **kangsw1025/kangsw1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
