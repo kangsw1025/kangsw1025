@@ -11,7 +11,7 @@
 
 ---
 
-My states on [Solved.ac](https://solved.ac/) 
+My states of [Solved.ac](https://solved.ac/) 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kangsw1025)](https://solved.ac/kangsw1025)
 
