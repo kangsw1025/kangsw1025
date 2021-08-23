@@ -10,9 +10,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 ---
+ 
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangsw1025)](https://solved.ac/kangsw1025)   
+[![CodeForces Profile](https://cf.leed.at?id=Tamyu)](https://codeforces.com/profile/Tamyu)
 
-My states of [Solved.ac](https://solved.ac/)   
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangsw1025)](https://solved.ac/kangsw1025)
 
 <!--
 **kangsw1025/kangsw1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
