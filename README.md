@@ -1,6 +1,5 @@
 ## 👋 Hi I'm SeungWoo
 - I live in Korea
-- I'm JBNU student
 - I'm interested in Front-end and Algorithm
 - I like play games
 
